@@ -1,4 +1,5 @@
 MSIAL
+=====
 This package is implementing the method in paper: Multi-view streaming clustering with incremental anchor learning. Please contact 02713@zjhu.edu.cn if you have any questions.
 
 run.m: U can run this main file, and Its performance will be recorded automatically.
